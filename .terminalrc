@@ -1,0 +1,5 @@
+source .venv/bin/activate
+export PS1="\[\e]0;\u@E530: \W\a\]${debian_chroot:+($debian_chroot)}(.venv) \[\033[01;32m\][\u@E530\[\033[00m\] \W\[\033[01;32m\]]\[\033[00m\]\$ "
+alias prj-dir='cd /mnt/4E903A9B903A8A0B/Work/Gitlab/Jadi-Bestoon-2017'
+
+
