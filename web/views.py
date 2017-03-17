@@ -154,6 +154,7 @@ def whoami(request):
         }, encoder=JSONEncoder)  #
 
 
+
 # return General Status of a user as Json (income,expense)
 
 
